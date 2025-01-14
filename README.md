@@ -1,18 +1,76 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Bile</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer </h3>
 
 - 🔭 I’m currently working on **AI Course Generator**
 
-- 👨‍💻 All of my projects are available at [https://jayyportfoli.netlify.app/](https://jayyportfoli.netlify.app/)
+- 👨‍💻 All of my projects are available at [Link](https://jayyportfoli.netlify.app/)
 
 - 📫 How to reach me **dhananjayvbile10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1jZvKm4onoT5KrN6jajFWTYB-wz31kx3_?usp=drive_link](https://drive.google.com/drive/folders/1jZvKm4onoT5KrN6jajFWTYB-wz31kx3_?usp=drive_link)
+- 📄 Know about my experiences [Link](https://drive.google.com/drive/folders/1jZvKm4onoT5KrN6jajFWTYB-wz31kx3_?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhananjay-bile-bb23a9214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhananjay-bile-bb23a9214/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
+
+**🪁 Skills Explored**
+<div align="center">
+
+[![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
+[![CPP](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
+[![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
+[![Javascript](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite&perline=3)](https://skillicons.dev)
+[![tailwind](https://skillicons.dev/icons?i=tailwind&perline=3)](https://skillicons.dev)
+[![bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
+[![mui](https://skillicons.dev/icons?i=mui&perline=3)](https://skillicons.dev)
+[![nodejs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+[![express](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
+[![mongodb](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
+[![mysql](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
+[![postman](https://skillicons.dev/icons?i=postman&perline=3)](https://skillicons.dev)
+[![github](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev)
+[![git](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
+[![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+[![replit](https://skillicons.dev/icons?i=replit&perline=3)](https://skillicons.dev)
+[![vercel](https://skillicons.dev/icons?i=vercel&perline=3)](https://skillicons.dev)
+[![ts](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
+[![next](https://skillicons.dev/icons?i=next&perline=3)](https://skillicons.dev)
+[![xd](https://skillicons.dev/icons?i=xd&perline=3)](https://skillicons.dev)
+[![figma](https://skillicons.dev/icons?i=figma&perline=3)](https://skillicons.dev)
+[![ai](https://skillicons.dev/icons?i=ai&perline=3)](https://skillicons.dev)
+[![ps](https://skillicons.dev/icons?i=ps&perline=3)](https://skillicons.dev)
+
+</div>
+
+<br/>
+**📊 Github Stats**
+
+<table style="border: 0px solid black !important;">
+  <tr style="border: 0px solid black !important;">
+    <td align="center" width="50%" style="border: 0px solid black !important;">
+      <a href="https://github.com/DBjay01">
+        <img src="https://github-readme-streak-stats-rho-gilt.vercel.app?user=DBjay01&theme=chartreuse-dark&hide_border=true&card_width=475" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: 0px solid black !important;">
+      <a href="https://github.com/DBjay01">
+        <img src="https://github-readme-stats.vercel.app/api?username=DBjay01&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&card_width=475" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: 0px solid black !important;">
+    <td colspan="2" align="center" width="100%" style="border: 0px solid black !important;">
+      <a href="https://github.com/DBjay01">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBjay01&layout=compact&theme=chartreuse-dark&hide_border=true&card_width=400" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
